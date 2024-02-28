@@ -18,7 +18,7 @@ export interface Product {
       id: 1,
       name: "Apple iPhone 11 Pro",
       price: 304880,
-      description: "Функциональный и стильный смартфон Apple iPhone 11 Pro в металлическом корпусе способен обеспечить не только повседневное общение и развлечения, но и продуктивную работу.",
+      description: "Функциональный и стильный смартфон Apple iPhone 11 Pro в металлическом корпусе обеспечить не только повседневное общение и развлечения, но и продуктивную работу.",
       rating: 5,
       url: "https://kaspi.kz/shop/p/apple-iphone-11-128gb-slim-box-chernyi-100692388/?c=750000000#!/item",
       imgURL: "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h0a/h2e/31489167622174/apple-iphone-11-128gb-slim-box-cernyj-100692388-1-Container.jpg",
