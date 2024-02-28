@@ -246,7 +246,7 @@ export interface Product {
       id: 21,
       name: "Apple EarPods",
       price: 12907,
-      description: "В отличие от круглой формы обычных наушников-вкладышей, конструкция наушников EarPods продиктована геометрией ушной раковины.",
+      description: "В отличие от круглой формы обычных наушников-вкладышей, конструкция наушников EarPods продиктована ушной раковины.",
       rating: 5,
       url: "https://kaspi.kz/shop/p/apple-earpods-lightning-belyi-4801876/?c=750000000#!/item",
       imgURL: "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h29/ha8/31582164779038/apple-earpods-lightning-belyj-4801876-1-Container.jpg",
@@ -256,9 +256,3 @@ export interface Product {
     }
   ];
   
-  
-  /*
-  Copyright Google LLC. All Rights Reserved.
-  Use of this source code is governed by an MIT-style license that
-  can be found in the LICENSE file at https://angular.io/license
-  */
